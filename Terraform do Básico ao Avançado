@@ -3,5 +3,6 @@ Nessa etapa foi basicamente para entender sobre o curso e sobre o que eu iria ap
 
 ## 2 - Preparação 
 Nessa etapa foi necessário instalar WSL2 (windows), baixando Ubuntu na versão 24.04. Além disso, baixei o VSCODE (já tinha) e Chocolatey e o próprio Terraform
-
+- Criação de Credenciais na AWS
+- Criação de Credenciais na Azure
 ## 3 - Funções Básicas
