@@ -1,4 +1,7 @@
 ## 1 - Introdução
-Essa etapa foi basicamente para entender sobre o curso e sobre o que eu iria aprender no decorrer dele. Nada técnico ou de instalação.
+Nessa etapa foi basicamente para entender sobre o curso e sobre o que eu iria aprender no decorrer dele. Nada técnico ou de instalação.
 
 ## 2 - Preparação 
+Nessa etapa foi necessário instalar WSL2 (windows), baixando Ubuntu na versão 24.04. Além disso, baixei o VSCODE (já tinha) e Chocolatey e o próprio Terraform
+
+## 3 - Funções Básicas
